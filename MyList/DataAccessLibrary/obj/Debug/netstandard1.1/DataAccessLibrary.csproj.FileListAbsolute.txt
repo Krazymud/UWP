@@ -1,0 +1,9 @@
+D:\Projects\MyList\DataAccessLibrary\bin\Debug\netstandard1.1\DataAccessLibrary.deps.json
+D:\Projects\MyList\DataAccessLibrary\bin\Debug\netstandard1.1\DataAccessLibrary.dll
+D:\Projects\MyList\DataAccessLibrary\bin\Debug\netstandard1.1\DataAccessLibrary.pdb
+D:\Projects\MyList\DataAccessLibrary\obj\Debug\netstandard1.1\DataAccessLibrary.csprojResolveAssemblyReference.cache
+D:\Projects\MyList\DataAccessLibrary\obj\Debug\netstandard1.1\DataAccessLibrary.csproj.CoreCompileInputs.cache
+D:\Projects\MyList\DataAccessLibrary\obj\Debug\netstandard1.1\DataAccessLibrary.AssemblyInfoInputs.cache
+D:\Projects\MyList\DataAccessLibrary\obj\Debug\netstandard1.1\DataAccessLibrary.AssemblyInfo.cs
+D:\Projects\MyList\DataAccessLibrary\obj\Debug\netstandard1.1\DataAccessLibrary.dll
+D:\Projects\MyList\DataAccessLibrary\obj\Debug\netstandard1.1\DataAccessLibrary.pdb

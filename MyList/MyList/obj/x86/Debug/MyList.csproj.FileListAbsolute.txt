@@ -1,0 +1,15 @@
+D:\Projects\MyList\MyList\obj\x86\Debug\MyList.csprojResolveAssemblyReference.cache
+D:\Projects\MyList\MyList\obj\x86\Debug\App.g.i.cs
+D:\Projects\MyList\MyList\obj\x86\Debug\App.g.cs
+D:\Projects\MyList\MyList\obj\x86\Debug\MainPage.g.i.cs
+D:\Projects\MyList\MyList\obj\x86\Debug\MainPage.g.cs
+D:\Projects\MyList\MyList\obj\x86\Debug\MainPage1.g.i.cs
+D:\Projects\MyList\MyList\obj\x86\Debug\MainPage1.g.cs
+D:\Projects\MyList\MyList\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\Projects\MyList\MyList\obj\x86\Debug\App.xaml
+D:\Projects\MyList\MyList\obj\x86\Debug\MainPage.xaml
+D:\Projects\MyList\MyList\obj\x86\Debug\MainPage1.xaml
+D:\Projects\MyList\MyList\obj\x86\Debug\App.xbf
+D:\Projects\MyList\MyList\obj\x86\Debug\MainPage.xbf
+D:\Projects\MyList\MyList\obj\x86\Debug\MainPage1.xbf
+D:\Projects\MyList\MyList\obj\x86\Debug\XamlSaveStateFile.xml

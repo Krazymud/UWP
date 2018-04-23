@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tile>
+  <visual branding="nameAndLogo">
+    <binding template="TileMedium" hint-textStacking="center">
+      <text hint-align="center" hint-style="caption">title</text>
+      <text hint-align="center" hint-style="captionsubtle">des</text>
+      <text hint-align="center" hint-style="captionsubtle">date</text>
+      <image src="ms-appx:///Assets/squareback.jpg" placement="background" />
+    </binding>
+    <binding template="TileWide" hint-textStacking="center">
+      <group>
+        <subgroup hint-weight="40">
+          <image src="ms-appx:///Assets/user.png" />
+        </subgroup>
+        <subgroup hint-textStacking="center">
+          <text hint-align="center" hint-style="caption">title</text>
+          <text hint-align="center" hint-style="captionsubtle">des</text>
+          <text hint-align="center" hint-style="captionsubtle">date</text>
+        </subgroup>
+      </group>
+      
+      <image src="ms-appx:///Assets/wideback.jpg" placement="background" />
+    </binding>
+    <binding template="TileLarge" hint-textStacking="center">
+      <group>
+        <subgroup hint-weight="1"/>
+        <subgroup hint-weight="2">
+          <image src="ms-appx:///Assets/user.png" />
+        </subgroup>
+        <subgroup hint-weight="1"/>
+      </group>
+      <text hint-align="center" hint-style="caption">title</text>
+      <text hint-align="center" hint-style="captionsubtle">des</text>
+      <text hint-align="center" hint-style="captionsubtle">date</text>
+      <image src="ms-appx:///Assets/squareback.jpg" placement="background" />
+    </binding>
+  </visual>
+</tile>
